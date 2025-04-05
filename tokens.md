@@ -90,3 +90,12 @@ Two popular **subword tokenization** methods are **SentencePiece** and **WordPie
 - Requires training data to build a suitable vocabulary and can be computationally intensive.
 
 ---
+
+
+Absolutely! Here’s an updated section you can add to your blog post to explain how to use the **Tiktokenizer** tool:
+
+---
+
+### **How to Check Token Count Using Tiktokenizer**
+
+If you want to understand how many tokens a given word or piece of text will consume when processed by a language model like GPT, you can use online tools such as **[Tiktokenizer](https://tiktokenizer.vercel.app/)**. This tool helps you easily visualize how the model tokenizes text.
