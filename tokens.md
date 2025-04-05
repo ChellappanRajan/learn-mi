@@ -1,4 +1,4 @@
-### **Understanding Tokenization in NLP 
+### Understanding Tokenization in NLP
 
 **Tokenization** is a fundamental step in natural language processing (NLP), where text is split into smaller units called **tokens**. These tokens can be words, characters, or subwords, depending on the method used. After tokenizing text into tokens, these tokens are typically converted into numbers because machine learning models, including language models like GPT, can only work with numerical data.
 
